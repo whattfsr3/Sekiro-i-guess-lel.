@@ -1,4 +1,4 @@
-# Game Title = jolliness
+# Game Title = Jolliness
 you have to kill hostiles to retrieve your stamina to slide and kill more hostiles!!1
 
   # //  MECHANICS //
