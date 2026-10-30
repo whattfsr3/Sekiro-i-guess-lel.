@@ -22,3 +22,11 @@ Mixamo
 # UPDATE 1.5V
 -Enemies won't clip through walls
 -Enemies can't pathfind Players within 5 meters
+
+
+# MEMBERS 
+Şeref  = Github Coordinator
+hediye ve Medine = Game Developer
+Ahmet = Unity Dev.
+Doğan = Visual Designer 
+Gülşen = QA & Playtester role
